@@ -13,3 +13,4 @@ sklearn.preprocessing
 model-loads
 keras
 MinMaxScaler
+sklearn-pypi-package
