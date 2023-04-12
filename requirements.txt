@@ -11,7 +11,6 @@ tensorflow
 keras.models
 datetime
 drive
-sklearn.preprocessing
 model-loads
 keras
 MinMaxScaler
