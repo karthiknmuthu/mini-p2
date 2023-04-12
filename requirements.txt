@@ -14,3 +14,4 @@ model-loads
 keras
 MinMaxScaler
 sklearn-pypi-package
+scikit-learn
