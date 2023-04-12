@@ -4,6 +4,8 @@ matplotlib
 pandas_datareader
 yfinance
 streamlit
+scikit-learn
+sklearn
 tensorflow
 keras.models
 datetime
@@ -13,4 +15,4 @@ model-loads
 keras
 MinMaxScaler
 sklearn-pypi-package
-scikit-learn
+
